@@ -40,7 +40,6 @@ abdulmalek@homelab
 
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=88C0D0)
 ![Go](https://img.shields.io/badge/Go-2E3440?style=for-the-badge&logo=go&logoColor=88C0D0)
-![Bash](https://img.shields.io/badge/Bash-2E3440?style=for-the-badge&logo=gnubash&logoColor=88C0D0)
 ![Linux](https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=88C0D0)
 ![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker&logoColor=88C0D0)
 ![Proxmox](https://img.shields.io/badge/Proxmox-2E3440?style=for-the-badge&logo=proxmox&logoColor=88C0D0)
@@ -49,13 +48,10 @@ abdulmalek@homelab
 
 **[ Learning & Expanding ]**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript&logoColor=81A1C1)
-![Node.js](https://img.shields.io/badge/Node.js-2E3440?style=for-the-badge&logo=node.js&logoColor=81A1C1)
-![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react&logoColor=81A1C1)
+![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker&logoColor=88C0D0)
 ![MySQL](https://img.shields.io/badge/MySQL-2E3440?style=for-the-badge&logo=mysql&logoColor=81A1C1)
-![Rust](https://img.shields.io/badge/Rust-2E3440?style=for-the-badge&logo=rust&logoColor=81A1C1)
 ![Grafana](https://img.shields.io/badge/Grafana-2E3440?style=for-the-badge&logo=grafana&logoColor=81A1C1)
-![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=git&logoColor=81A1C1)
+![Proxmox](https://img.shields.io/badge/Proxmox-2E3440?style=for-the-badge&logo=proxmox&logoColor=88C0D0)
 
 </div>
 
@@ -104,8 +100,6 @@ abdulmalek@homelab
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulmalek_ESUGHI-2E3440?style=for-the-badge&logo=linkedin&logoColor=88C0D0)](https://www.linkedin.com/in/abdulmalek-esughi/)
-&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-7n4xt-2E3440?style=for-the-badge&logo=tryhackme&logoColor=88C0D0)](https://tryhackme.com/p/7n4xt)
 &nbsp;
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-7n4xt-2E3440?style=for-the-badge&logo=hackthebox&logoColor=88C0D0)](https://www.hackthebox.com/)
 
