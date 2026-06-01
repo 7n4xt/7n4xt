@@ -63,7 +63,7 @@ abdulmalek@homelab
 
 | Project | Description | Stack |
 |:---|:---|:---:|
-| 🛡️ **Nostroguard** | Live SaaS cybersecurity training platform | `Python` `Docker` |
+| 🛡️ **Nostroguard** | Live SaaS cybersecurity training platform | `PHP` `HTML CSS JS` `Docker` |
 | 🔐 **Vault-CLI** | Encrypted local password manager | `Python` |
 | 🍯 **Honeypot + SIEM** | Honeypot w/ Wazuh detection & alerting | `Wazuh` `Linux` |
 | 🏠 **Homelab** | Proxmox: Grafana · Samba · Pi-hole · Navidrome | `Proxmox` `Self-hosted` |
