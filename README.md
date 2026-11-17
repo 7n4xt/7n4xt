@@ -45,29 +45,6 @@ abdulmalek@homelab
 ![Proxmox](https://img.shields.io/badge/Proxmox-2E3440?style=for-the-badge&logo=proxmox&logoColor=88C0D0)
 ![Wireshark](https://img.shields.io/badge/Wireshark-2E3440?style=for-the-badge&logo=wireshark&logoColor=88C0D0)
 ![VSCode](https://img.shields.io/badge/VSCode-2E3440?style=for-the-badge&logo=visual-studio-code&logoColor=88C0D0)
-
-**[ Learning & Expanding ]**
-
-![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker&logoColor=88C0D0)
-![MySQL](https://img.shields.io/badge/MySQL-2E3440?style=for-the-badge&logo=mysql&logoColor=81A1C1)
-![Grafana](https://img.shields.io/badge/Grafana-2E3440?style=for-the-badge&logo=grafana&logoColor=81A1C1)
-![Proxmox](https://img.shields.io/badge/Proxmox-2E3440?style=for-the-badge&logo=proxmox&logoColor=88C0D0)
-
-</div>
-
----
-
-## 🏗️ Notable Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---:|
-| 🛡️ **Nostroguard** | Live SaaS cybersecurity training platform | `PHP` `HTML CSS JS` `Docker` |
-| 🔐 **Vault-CLI** | Encrypted local password manager | `Python` |
-| 🍯 **Honeypot + SIEM** | Honeypot w/ Wazuh detection & alerting | `Wazuh` `Linux` |
-| 🏠 **Homelab** | Proxmox: Grafana · Samba · Pi-hole · Navidrome | `Proxmox` `Self-hosted` |
-
 </div>
 
 ---
